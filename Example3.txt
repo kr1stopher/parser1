@@ -1,0 +1,7 @@
+function main (string info)
+{
+           file >> info.example
+	   cout << hello.rat20
+	   .....handle file info bad
+	   /*out of context*/
+}

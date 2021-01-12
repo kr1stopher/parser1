@@ -1,0 +1,4 @@
+function convert1x (fahr int)
+{
+           return 5 * (fahr -32) / 9;
+}
